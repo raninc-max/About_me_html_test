@@ -1,0 +1,255 @@
+.p1 {
+  h1 {
+    font-size: 200px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: rgb(22, 16, 120);
+    margin-top: 5%;
+    padding: 5%;
+    img {
+      border-radius: 200px;
+      height: 250px;
+      margin-bottom: -5%;
+    }
+    .dd {
+      display: flex;
+      justify-content: center;
+      margin-top: -100px;
+      .d {
+        background-color: White;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-style: hidden;
+        border-radius: 3px;
+        color: rgb(22, 16, 120);
+        font-size: 15px;
+        margin: 50px;
+      }
+    }
+  }
+  .into {
+    h2 {
+      margin-top: -5%;
+      color: rgb(22, 16, 120);
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      margin-left: 15%;
+      font-size: 50px;
+    }
+    p {
+      font-size: 25px;
+      margin-left: 15%;
+      margin-right: 15%;
+      color: rgb(83, 102, 184);
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      text-align: justify;
+    }
+  }
+  .pas {
+    h2 {
+      font-size: 50px;
+      margin-top: 0%;
+      color: rgb(22, 16, 120);
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      margin-left: 15%;
+    }
+    .imgg {
+      display: flex;
+      align-content: space-between;
+      width: 1000px;
+      overflow: auto;
+      margin-left: 15%;
+      margin-right: 25%;
+      img {
+        display: flex;
+        margin: 5px;
+        border: solid 10px rgb(22, 16, 120);
+        border-radius: 10px;
+      }
+    }
+  }
+  h3 {
+    color: rgb(22, 16, 120);
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    margin-left: 15%;
+    font-size: 50px;
+  }
+  ol {
+    font-size: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: rgb(83, 102, 184);
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: justify;
+  }
+  button {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    margin: auto;
+    margin-left: 50%;
+    background-color: white;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+}
+
+.p2 {
+  article {
+    border: solid, 2px, rgb(255, 255, 255);
+    header {
+      font-size: 100px;
+      text-align: center;
+      color: rgb(255, 255, 255);
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      background-color: rgb(22, 16, 120);
+      margin-top: 0%;
+      p {
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+        padding: 25px;
+        font-size: 20px;
+        color: rgb(22, 16, 120);
+        background-color: rgb(255, 255, 255);
+      }
+      .books {
+        img {
+          height: 400px;
+          width: 250px;
+          object-fit: over;
+        }
+      }
+      .music {
+        img {
+          height: 280px;
+          width: 250px;
+          object-fit: over;
+        }
+      }
+      .Movie {
+        img {
+          height: 350px;
+          width: 250px;
+          object-fit: over;
+        }
+      }
+    }
+    footer {
+      h1 {
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      }
+      button {
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+        margin: auto;
+        text-align: center;
+        background-color: white;
+        color: rgb(22, 16, 120) navy;
+        border-color: rgb(22, 16, 120);
+        border-radius: 5px;
+        font-size: 20px;
+      }
+      padding: 15px;
+      font-size: 20px;
+      color: white;
+      background-color: rgb(22, 16, 120);
+      text-align: center;
+    }
+  }
+}
+
+.p3 {
+  h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    padding: 25px;
+    font-size: 40px;
+    background-color: rgb(0, 51, 147);
+  }
+  h2 {
+    text-decoration: underline;
+    color: rgb(0, 51, 147);
+    font-size: 35px;
+  }
+  h2:hover {
+    text-decoration: underline;
+    color: rgb(0, 51, 147);
+    font-size: 35px;
+  }
+
+  p {
+    margin: 0px auto;
+    color: rgb(0, 51, 147);
+    margin-right: 0%;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    padding: 8px;
+    margin-top: 0%;
+  }
+  img {
+    float: left;
+    margin-top: 0%;
+    padding: 0 60px 0 0;
+  }
+  #highlighted-scientist1 {
+    border: 5px solid rgb(0, 51, 147);
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 400px;
+    background-color: #ffffff;
+  }
+  #highlighted-scientist1:hover {
+    background-color: rgb(172, 174, 194);
+  }
+  #highlighted-scientist2 {
+    border: 5px solid rgb(0, 51, 147);
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 400px;
+    background-color: #ffffff;
+  }
+  #highlighted-scientist2:hover {
+    background-color: rgb(172, 174, 194);
+  }
+  #highlighted-scientist3 {
+    border: 5px solid rgb(0, 51, 147);
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 400px;
+    background-color: #ffffff;
+  }
+  #highlighted-scientist3:hover {
+    background-color: rgb(172, 174, 194);
+  }
+  #highlighted-scientist4 {
+    border: 5px solid rgb(0, 51, 147);
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 400px;
+    background-color: #ffffff;
+  }
+  #highlighted-scientist4:hover {
+    background-color: rgb(172, 174, 194);
+  }
+  div {
+    padding: 15px;
+    margin: 10px;
+  }
+  button {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    margin: auto;
+    margin-left: 50%;
+    background-color: white;
+    color: white;
+    border-color: rgb(22, 16, 120);
+    border-radius: 5px;
+    font-size: 20px;
+  }
+}
